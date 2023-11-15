@@ -40,7 +40,7 @@ public class Maquinario {
     @Column
     @NotNull
     @NotBlank
-    private String porte;
+    private char porte;
 
     @OneToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "historico_id", referencedColumnName = "id")
@@ -84,11 +84,11 @@ public class Maquinario {
         this.status = status;
     }
 
-    public String getPorte() {
+    public char getPorte() {
         return porte;
     }
 
-    public void setPorte(String porte) {
+    public void setPorte(char porte) {
         this.porte = porte;
     }
 

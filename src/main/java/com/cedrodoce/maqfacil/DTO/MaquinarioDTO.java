@@ -9,6 +9,6 @@ public record MaquinarioDTO(
         @NotNull
         String modelo,
         @NotNull @NotBlank
-        String porte
+        char porte
 ) {
 }
