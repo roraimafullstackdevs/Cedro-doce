@@ -1,6 +1,6 @@
 # MaquiFácil
 
-O MaquiFácil surgiu a partir de pesquisas que nossa equipe fez com produtos do agronegócio que lidam diariamente com a gestão e manutenção de maquinário agrícola na fazenda.
+O MaquiFácil surgiu a partir de pesquisas que nossa equipe fez com produtos do agronegócio que lidam diariamente com a gestão e manutenção de maquinário agrícola na fazenda. Projeto desenvolvido para a Hub Roraima Innovation, o primeiro hackathon agrotech de Roraima, que ocorreu durante o evento EXPOFERR em 2023.
 
 Durante as conversas, identificamos alguns problemas, tais como, dificuldade de gestão de combustível, óleo e filtro, além da dificuldade de administrar quais operários usaram aquela máquina e em qual período.
 
